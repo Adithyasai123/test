@@ -1,0 +1,5 @@
+{{#user}}
+Name: Adithya sai
+Skills: java,python,git,github,jenkins,docker,aws,linux
+Email: adithyasainulu@gmail.com
+{{/user}}
